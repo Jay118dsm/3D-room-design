@@ -1,7 +1,7 @@
 # 3D-project (under OpenGL with only freeglut)
 A simple model of interior room design. Due to the limitation of not using too many external libraries, the model is composed of basic drawings.
 
-#Simple interaction between mouse and keyboard.
+Simple interaction between mouse and keyboard.
 Buttons	Functions
 ‘q’ and ‘Q’	Exit the window 
 ‘d’ and ‘D’	Camera down
