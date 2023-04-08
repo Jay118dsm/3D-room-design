@@ -1,7 +1,8 @@
 # 3D/Room Design (under OpenGL with only freeglut)
-A simple model of interior room design. Due to the limitation of not using too many external libraries, the model is composed of basic drawings.
+This is a simple model of interior room design. Due to the consideration of not using too many external dependency libraries, this model is composed of basic drawings.
 
-Simple interaction between mouse and keyboard.
+Basic usage: simple interaction between mouse and keyboard.
+
 ‘q’ and ‘Q’	Exit the window 
 
 ‘d’ and ‘D’	Camera down
